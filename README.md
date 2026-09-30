@@ -31,14 +31,6 @@ User asks a question
 Relevant chunks are retrieved
 LLM generates final answer
 
-# How to Run
-Step 1: Clone Repo
-git clone https://github.com/your-username/pdf-chatbot-rag.git
-cd pdf-chatbot-rag
-Step 2: Install Requirements
-pip install -r requirements.txt
-Step 3: Run App
-streamlit run app.py
 
 # Note
 Make sure you have Ollama installed and running:
